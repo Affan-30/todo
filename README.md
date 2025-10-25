@@ -1,12 +1,39 @@
-# React + Vite
+# 🪄 ToDo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern **ToDo Application** built with **React + JavaScript**, featuring a **dynamic animated background** and a clean, user-friendly interface for managing your daily tasks efficiently.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+✅ **Add Tasks** – Quickly add new tasks to your list.  
+✅ **Mark as Complete** – Check off completed tasks (with a smooth strike-through effect).  
+✅ **Show/Hide Finished Tasks** – Toggle visibility of completed tasks.  
+✅ **Edit or Delete Tasks** – Update or remove tasks anytime.  
+✅ **Persistent Storage** – Tasks are saved locally in your browser’s localStorage.  
+✅ **Dynamic Background** – Beautiful starry animated background for a pleasant user experience.  
+✅ **Responsive UI** – Works perfectly on desktops, tablets, and mobiles.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Tech Stack
+
+- **React.js** (Frontend Library)  
+- **JavaScript (ES6+)**  
+- **HTML5 & CSS3**  
+- **LocalStorage API** (for data persistence)  
+
+---
+
+## 🎨 UI Highlights
+
+- Elegant **purple-pink theme** with neon accents.  
+- Rounded input fields and buttons for a soft aesthetic.  
+- Interactive icons for editing and deleting tasks.  
+- Animated cosmic background using **CSS particles** for a lively experience.  
+
+---
+
+## 🚀 Live Demo
+
+👉 [**Try it here**]( https://affan-30.github.io/todo/ )  
